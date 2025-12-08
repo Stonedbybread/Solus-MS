@@ -4,4 +4,4 @@ Written entirely in html (The launcher, not the games) <br>
 Opens games in a new tab, use f11 to full screen. <br>
 Credit: bog (truffled.lol) for most ports
 # Launch Solus MS In Browser
-https://katsugachi.github.io/Solus-MS/
+[![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
