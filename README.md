@@ -8,5 +8,3 @@ Credit: bog (truffled.lol) for most ports
 # Todo <br>
 Scrape Games That Are Being Iframed To <br>
 Add More Games <br>
-Move Games to a folder <br>
-Clean Up
