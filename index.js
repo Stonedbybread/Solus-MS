@@ -12,7 +12,7 @@ const staticGames = [
     { name: "Run 3", cover: "Imgs/run-3.png", url: "games/run3.html" },
     { name: "Balatro", cover: "Imgs/balatro.jpg", url: "games/balatro.html" },
     { name: "Fire And Ice", cover: "Imgs/FandI.jpeg", url: "games/FireAndIce.html" },
-    { name: "Drivemad", cover: "Imgs/Drivemad.png", url: "games/DriveMad.html" },
+    { name: "Drivemad", cover: "Imgs/DriveM.jpeg", url: "games/DriveMad.html" },
     { name: "Plants VS Zombies", cover: "Imgs/PVZ.jpeg", url: "games/PvZ.html" },
     { name: "Shapez", cover: "Imgs/Shapez.png", url: "games/Shapez.html" },
     { name: "Minesweeper+", cover: "Imgs/MSPlus.png", url: "games/MinesweeperPlus/MinesweeperPlus.html" },
